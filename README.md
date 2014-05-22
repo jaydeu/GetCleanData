@@ -8,6 +8,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Data in our cleaned data set (tidy.data.txt) includes only the mean and standard deviation variables from the original data set. Such variables were identified in the original data set by the endings Mean-() and Std-().
 
+Before running run_analysis.R, the user must first save the zipped file below to their own computer and then set the R directory to the folder "UCI HAR Dataset".
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 The following files are included:
 
 * 'README.md'
