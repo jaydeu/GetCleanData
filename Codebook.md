@@ -10,7 +10,7 @@ Originally this data set had been split into a test set and training set, so it 
 
 The provided variable names (from the original file features.txt) were changed into lower case, with dashes and parentheses removed. Several of the variable names included the string 'bodybody' instead of 'body', so these instances were corrected as well. 
 
-Means were calculated for each variable by subject and activity, making sure not to include any NA values. Last, a data table of means was output into a tab-delimited text file. 
+Means were calculated for each variable by subject and activity, making sure not to include any NA values. Last, a data table of means was output into a tab-delimited text file. This final tidy dataset (tidy.data.txt) includes columns denoting the subject and activity, and a column for each of the original mean and standard deviation variables. 
 
 ## Variables ##
 

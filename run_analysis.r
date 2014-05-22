@@ -3,7 +3,7 @@
 # This program first merges training and test set data, then sets new variable
 # names and creates a data frame of mean and standard deviation variables. 
 # Finally, the program will output a new table of means for each variable by 
-# subject and activity. This table will be saved to a column delimited text file.
+# subject and activity. This table will be saved to a tab delimited text file.
 
 library(data.table)
 
