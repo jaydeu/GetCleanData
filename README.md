@@ -6,7 +6,7 @@ Original data and further information about the HAR database is available at the
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Data in our cleaned data set (tidy.data.txt) includes only the mean and standard deviation variables from the original data set. Such variables were identified in the original data set by the endings Mean-() and Std-().
+Data in our cleaned data set (tidy.data.txt) includes means for only the mean and standard deviation variables from the original data set. Such variables were identified in the original data set by the endings Mean-() and Std-(). Means are taken for each of the 30 subjects and 6 activities.
 
 Before running run_analysis.R, the user must first save the zipped file below to their own computer and then set the R directory to the folder "UCI HAR Dataset".
 
